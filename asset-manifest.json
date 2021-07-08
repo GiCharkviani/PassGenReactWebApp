@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PassGenReactWebApp/static/css/main.ff4834c6.chunk.css",
+    "main.js": "/PassGenReactWebApp/static/js/main.f0729fc0.chunk.js",
+    "main.js.map": "/PassGenReactWebApp/static/js/main.f0729fc0.chunk.js.map",
+    "runtime-main.js": "/PassGenReactWebApp/static/js/runtime-main.081671dc.js",
+    "runtime-main.js.map": "/PassGenReactWebApp/static/js/runtime-main.081671dc.js.map",
+    "static/js/2.1abdce6b.chunk.js": "/PassGenReactWebApp/static/js/2.1abdce6b.chunk.js",
+    "static/js/2.1abdce6b.chunk.js.map": "/PassGenReactWebApp/static/js/2.1abdce6b.chunk.js.map",
+    "static/js/3.9af43e41.chunk.js": "/PassGenReactWebApp/static/js/3.9af43e41.chunk.js",
+    "static/js/3.9af43e41.chunk.js.map": "/PassGenReactWebApp/static/js/3.9af43e41.chunk.js.map",
+    "index.html": "/PassGenReactWebApp/index.html",
+    "static/css/main.ff4834c6.chunk.css.map": "/PassGenReactWebApp/static/css/main.ff4834c6.chunk.css.map",
+    "static/js/2.1abdce6b.chunk.js.LICENSE.txt": "/PassGenReactWebApp/static/js/2.1abdce6b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.081671dc.js",
+    "static/js/2.1abdce6b.chunk.js",
+    "static/css/main.ff4834c6.chunk.css",
+    "static/js/main.f0729fc0.chunk.js"
+  ]
+}
