@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+SC:wght@200&display=swap');
+
+/*ძირითადი წარწერა*/
+.titleH{
+    font-family: 'Arimo', sans-serif;
+    text-align: center;
+    color: #F7F7F8;
+    cursor: context-menu;
+}
+/*პატარა წარწერა*/
+.titleHs{
+    font-size: 16px;
+    text-align: center;
+    color: #6E7081;
+    cursor: context-menu;
+    font-family: 'Encode Sans SC', sans-serif;
+}
+/*მონაცემების ჩარჩო*/
+.ulList{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+    font-size: 2em;
+    margin: 0!important;
+    padding: 0!important;
+    text-align: center;
+}
+
+/*მონაცემის ჩარჩო*/
+li{
+    justify-self: center;
+    align-self: center;
+    list-style-type: none;
+    background-color: rgb(30, 34, 63);
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+/*მონაცემი*/
+li input {
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(30, 34, 63);
+    border-radius: 10px;
+    color: rgb(227, 227, 231);
+    font-family: 'Arimo', sans-serif;
+    appearance: none;
+    border: none;
+    outline: none;
+    cursor: context-menu;
+    cursor: pointer;
+}
+
+li input:active {
+    background-color: green;
+}
+
